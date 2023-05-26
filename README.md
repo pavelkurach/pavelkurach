@@ -9,7 +9,7 @@ automates the valuation of companies.
 🔭 I’m currently learning fullstack development on
 [Full Stack Open](https://fullstackopen.com/) course.
 
-📖 I'am currently reading [Clean Architecture](https://www.pearson.com/en-us/subject-catalog/p/clean-architecture-a-craftsmans-guide-to-software-structure-and-design/P200000009528/9780134494326) by Robert C. Martin and [Python Concurrency with Asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) by Matthew Fowler.
+📖 I'm currently reading [Clean Architecture](https://www.pearson.com/en-us/subject-catalog/p/clean-architecture-a-craftsmans-guide-to-software-structure-and-design/P200000009528/9780134494326) by Robert C. Martin and [Python Concurrency with Asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) by Matthew Fowler.
 
 📫 How to reach me: **pavel.kurach.01@gmail.com**
 
