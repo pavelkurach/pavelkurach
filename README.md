@@ -3,11 +3,13 @@
 
 ## About me
 
-🔭 I am currently working on a program that analyzes stock market returns and
+🧑🏻‍💻 I am currently working on a program that analyzes stock market returns and
 automates the valuation of companies.
 
-🌱 I’m currently learning fullstack development on
+🔭 I’m currently learning fullstack development on
 [Full Stack Open](https://fullstackopen.com/) course.
+
+📖 I'am currently reading [Clean Architecture](https://www.pearson.com/en-us/subject-catalog/p/clean-architecture-a-craftsmans-guide-to-software-structure-and-design/P200000009528/9780134494326) by Robert C. Martin and [Python Concurrency with Asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) by Matthew Fowler.
 
 📫 How to reach me: **pavel.kurach.01@gmail.com**
 
@@ -67,10 +69,16 @@ automates the valuation of companies.
 <a href="" target="_blank" rel="noreferrer"> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="25"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" height="25" /> </a>
+  
+##
+  
+<div align="center">  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavelkurach&layout=compact&hide=jupyter%20notebook" />
+  </a>
+</div>
 
-<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelkurach&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pavelkurach/pavelkurach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -89,5 +97,7 @@ Here are some ideas to get you started:
 
 <a href="" target="_blank" rel="noreferrer">
 <img src="" alt="" height="25"/> </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelkurach&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
