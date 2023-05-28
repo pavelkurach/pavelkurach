@@ -9,7 +9,7 @@ automates the valuation of companies.
 🔭 I'm currently learning fullstack development on
 [Full Stack Open](https://fullstackopen.com/) course.
 
-📖 I'm currently reading [Clean Architecture](https://www.pearson.com/en-us/subject-catalog/p/clean-architecture-a-craftsmans-guide-to-software-structure-and-design/P200000009528/9780134494326) by Robert C. Martin and [Python Concurrency with Asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) by Matthew Fowler.
+📖 I'm currently reading [Learning SQL]([https://www.pearson.com/en-us/subject-catalog/p/clean-architecture-a-craftsmans-guide-to-software-structure-and-design/P200000009528/9780134494326](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)) by Alan Beaulieu and [Python Concurrency with Asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) by Matthew Fowler.
 
 📫 How to reach me: **pavel.kurach.01@gmail.com**
 
@@ -22,6 +22,8 @@ automates the valuation of companies.
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height="25"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="25"/>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express" height="25"/></a>
 <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" height="25"/>
