@@ -20,6 +20,9 @@ automates the valuation of companies.
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" height="25"/>
 </a>
+<a href="https://fastapi.tiangolo.com/lo/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi" height="25"/>
+</a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height="25"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
